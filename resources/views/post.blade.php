@@ -31,7 +31,7 @@
 
         <hr />
 
-        <p>Materia postada em: <span id="date"></span></p>
+        <p>Matéria postada em: <span id="date"></span></p>
 
     </section>
 
