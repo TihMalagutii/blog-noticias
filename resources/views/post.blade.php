@@ -31,6 +31,8 @@
 
         <hr />
 
+        <p>Materia postada em: <span id="date"></span></p>
+
     </section>
 
     <footer class="h-28 flex justify-center items-center bg-[#444444]">
